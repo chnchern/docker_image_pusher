@@ -1,2 +1,2 @@
+#platform=amd64 debian:experimental-20250811
 mysql:8.0-debian
-platform=amd64 debian:experimental-20250811
