@@ -1,2 +1,3 @@
 #mysql:8.0-debian
---platform=amd64 debian:experimental-20250811
+#--platform=amd64 debian:experimental-20250811
+registry:3.0.0
