@@ -2,4 +2,5 @@
 #--platform=amd64 debian:experimental-20250811
 #registry:3.0.0
 #sonatype/nexus3:3.83.1-alpine
-mysql:8.4.6
+#mysql:8.4.6
+mysql:5.7
